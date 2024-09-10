@@ -1,12 +1,31 @@
 # Project Proposal
 
-We propose developing a mobile application called StudyBuddy, aimed at helping students plan and manage their study schedules more efficiently. The app solves the problem of poor time management and inefficient study habits by providing personalized study plans, reminders, and learning resources tailored to individual needs. With academic stress on the rise, StudyBuddy will help users stay organized, improve their productivity, and ultimately enhance their academic performance.
+We propose developing TaskMaster, a mobile application designed to help students manage their academic tasks, deadlines, and goals efficiently. TaskMaster solves the problem of poor task management and missed deadlines by providing a simple yet powerful tool to organize assignments, exams, and projects in one place. Many students struggle with balancing their workloads and often forget important deadlines, leading to unnecessary stress and reduced academic performance. TaskMaster offers a solution that keeps everything organized, ensures that students stay on top of their tasks, and helps them prioritize efficiently.
+
+Unlike other task management apps that are either too complex or too general, TaskMaster is specifically designed for students, providing them with the tools they need to succeed academically. By focusing on simplicity and user-friendliness, TaskMaster will help students stay organized and reduce anxiety around schoolwork, while offering some advanced features to boost productivity.
 
 For Whom?
-StudyBuddy is designed for high school and college students who struggle with time management and balancing their academic workload. These users often face difficulties in maintaining a consistent study routine, especially during exam periods. Our initial target audience includes students in our own university and academic community, but the app is suitable for any student looking for a more organized study routine.
+TaskMaster is designed primarily for high school and university students who need an intuitive platform to organize their academic schedules and deadlines. The target audience includes students who want to streamline their academic workload without being overwhelmed by overly complex task management tools. We’ve identified a real need for students who want to manage assignments, projects, and exams but who also require reminders and task prioritization.
 
 How?
-From the end-user’s perspective, StudyBuddy will allow users to input their subjects, upcoming exams, and assignment deadlines. The app will generate a personalized study schedule, complete with reminders and suggested study techniques based on the type of content (e.g., flashcards for memorization, spaced repetition for retention). Users can track their progress, mark tasks as complete, and adjust their schedules as needed. Additionally, the app will provide access to curated study resources and tips on time management to help students optimize their study time.
+From the end-user’s perspective, TaskMaster offers a clean and intuitive interface that makes it easy for students to manage their academic tasks. Here’s how it works:
+
+Task Input and Categorization: Students can input tasks such as homework, assignments, projects, and exams, assigning each task a deadline and priority level (e.g., high, medium, low). Tasks can be categorized by subject or course, making it easier to stay organized.
+
+Smart Deadline Reminders: Sends automatic reminders before a task’s deadline, with customizable notification times. Users can choose to receive reminders a day before, a few hours before, or even weekly updates for long-term projects.
+
+Priority Management and Sorting: Tasks can be sorted by priority or due date, helping students focus on the most urgent assignments first. A color-coded system will make it visually easy to see which tasks need immediate attention and which ones can wait.
+
+Daily & Weekly Overview: Provides a daily and weekly view of all tasks and deadlines, allowing students to see their workload at a glance. This view helps with planning ahead and avoiding last-minute cramming.
+
+Task Completion Progress: A simple progress tracker that allows students to mark tasks as completed, offering visual feedback on their accomplishments and keeping track of what’s still pending.
+
+Recurring Tasks: For tasks that repeat regularly (e.g., weekly quizzes or assignments), users can set up recurring tasks with automatic reminders, saving time and reducing the chance of forgetting.
+
+Goal Setting: Allows students to set academic goals, such as finishing a project early or studying a set number of hours for an exam. This feature helps break down large tasks into manageable steps, ensuring they meet their academic goals.
+
+Minimalist Design: Focuses on a clutter-free, user-friendly interface that keeps distractions to a minimum. The app uses simple colors and layouts to enhance usability and accessibility.
 
 Scope
-This project is well-suited for a group of 4-6 developers and can be completed within the semester. The core features will include user authentication, study schedule generation, task tracking, and notifications. The complexity of the app is manageable, as we can begin with basic scheduling and reminder functionalities, then expand to include more advanced features like study techniques and progress tracking. The project’s scope strikes a balance between being technically challenging and achievable within the timeline, allowing room for future updates and improvements.
+This project is achievable within a semester by a group of 4-6 developers. The core functionality focuses on task management, reminders, priority sorting, and progress tracking, which can be implemented without requiring overly complex algorithms or data structures. The development process will start with the basics—task input, reminders, and calendar views—before expanding to include more advanced features like recurring tasks and goal setting.
+
