@@ -1,3 +1,8 @@
+# Team Members
+
+William Ma
+Rishi Rana
+
 # Project Proposal
 
 We propose Task Destroyer, a mobile software to help high school and university students with poor time and task management to deal with their academic tasks efficiently. It will provide a simple yet powerful tool to organize homeworks, exams, and quizzes in one place. Many lower-level student struggle with balancing their workloads at the beginning of their new campus life, leading to stress and poor academic standing. Task Destroyer offers a solution that keeps everything organized, ensures that students stay on top of their tasks.
